@@ -1,4 +1,4 @@
-import 'package:app/bloc/model.dart';
+import 'package:app/model/model.dart';
 class LoginApi {
   bool _success = false;
 
